@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Engineer role
 - 🌱 I completed a python fullstack course.
 - 💞️ I’m looking to collaborate on various projects.
-- 📫 How to reach me 
+- 📫 How to reach me call 9347420600
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
