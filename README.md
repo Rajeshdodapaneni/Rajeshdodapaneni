@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rajeshdodapaneni
-- 👀 I’m interested in Software Engineer role
+- 👀 Looking for a Software Engineer role
 - 🌱 I completed a python fullstack course where I explored to HTML5,CSS & Javascript, Python and Django Framework.
 - 💞️ I’m looking to collaborate on various projects.
 - 📫 How to reach me call 9347420600
